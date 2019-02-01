@@ -11,7 +11,7 @@
         "quotes": ["error", "double"],
         "eqeqeq": 2,
         "no-trailing-spaces": 2,
-        "array-element-newline": 1,
+        "array-element-newline": 0,
         "indent": 1,
         "no-mixed-spaces-and-tabs": 1,
         "no-var": 1
