@@ -252,6 +252,7 @@ customers.map(element => {
     });
 });
 
+// why doesn't this version work?
 // const getTheEmail = customers.map(element => {
 //     const oneCustomer = element.contacts.email;
 //     oneCustomer.forEach(email => {
